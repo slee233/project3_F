@@ -1,0 +1,33 @@
+.Map {
+  width: 700px;
+  height: 600px;
+  background-color: white;
+  margin: auto;
+  box-shadow: 10px 5px 10px;  
+  margin-top:50px;
+}
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+	background-color: #FFFAF0;
+}
+nav{
+	text-align: center;
+	background-color: #000;
+	margin: 0 auto;
+}
+span{
+	display: inline-block;
+	text-align: center;
+	position: relative;
+	padding: 10px 50px;
+}
+a{
+	color: white;
+}
+body{
+	margin: 0 auto;
+}
+
+ 
